@@ -1,26 +1,26 @@
 # 60 Days of Solana - A course by Rareskills
 
-Solana Course
+## Solana Course
 
-MODULE 1
+## MODULE 1
 
 Introductory Topics
-Day 1
+### Day 1
 Hello World (and troubleshooting Solana installation)
 
-Day 2
+### Day 2
  Function arguments, math, and arithmetic overflow
 
-Day 3
+### Day 3
 Anchor function magic and the Interface Definition Language
 
-Day 4
+### Day 4
 Solana reverts, errors, and basic access control
 
-Day 5
+### Day 5
 Where is the constructor? About anchor deploy
 
-MODULE 2
+## MODULE 2
 The minimum Rust you need to know
 Day 8-10 are not critical, they only explain some syntax which is likely unfamiliar to most readers. However, you can write Solana programs and follow along while treating the unusual syntax as boilerplate. Feel free to skim over those days.
 
