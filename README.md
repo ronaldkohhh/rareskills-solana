@@ -1,8 +1,9 @@
-#60 Days of Solana - A course by Rareskills
-
+# 60 Days of Solana - A course by Rareskills
 
 Solana Course
+
 MODULE 1
+
 Introductory Topics
 Day 1
 Hello World (and troubleshooting Solana installation)
